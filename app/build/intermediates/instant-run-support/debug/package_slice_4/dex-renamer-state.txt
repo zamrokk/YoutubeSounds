@@ -1,0 +1,4 @@
+#Thu Dec 14 15:54:26 CET 2017
+base.0=/Users/benjaminfuentes/git/YoutubeSounds/app/build/intermediates/transforms/dexMerger/debug/43
+path.0=classes.dex
+renamed.0=classes.dex

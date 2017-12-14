@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminfuentes/git/YoutubeSounds/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0206e269ad3ab423b02f6fabd16b948d70e0f436">
+        <dex dex="/Users/benjaminfuentes/git/YoutubeSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ebf4d83d75a898082981bccfe24aa68df60f41b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminfuentes/git/YoutubeSounds/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/benjaminfuentes/git/YoutubeSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_812b51d6080e71dcc2b11e7974d872ec2c551a18/classes.dex" />
+    </item>
+
+</items>
